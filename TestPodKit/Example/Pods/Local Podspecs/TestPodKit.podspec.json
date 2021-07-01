@@ -1,0 +1,22 @@
+{
+  "name": "TestPodKit",
+  "version": "0.1.0",
+  "summary": "A short description of TestPodKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ReverseScale@iCloud.com/TestPodKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ReverseScale@iCloud.com": "ReverseScale@iCloud.com"
+  },
+  "source": {
+    "git": "https://github.com/ReverseScale@iCloud.com/TestPodKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TestPodKit/Classes/**/*"
+}
