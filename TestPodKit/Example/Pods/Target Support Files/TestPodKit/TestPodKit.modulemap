@@ -1,6 +1,0 @@
-framework module TestPodKit {
-  umbrella header "TestPodKit-umbrella.h"
-
-  export *
-  module * { export * }
-}
