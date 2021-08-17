@@ -38,5 +38,5 @@
   "source_files": "bin_AFNetworking_4.0.1/Headers/*",
   "public_header_files": "bin_AFNetworking_4.0.1/Headers/*.h",
   "vendored_libraries": "bin_AFNetworking_4.0.1/*.a",
-  "description": "「   converted automatically by plugin cocoapods-imy-bin @slj    」"
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」"
 }
